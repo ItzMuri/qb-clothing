@@ -15,7 +15,7 @@
 .bg-image {
     position: absolute;
     width: 100%;
-    background-color: #25335063 !important;
+    background-color: linear-gradient(to left, rgba(133,133,133,0) 10%, rgba(133, 133, 133, 0) 50%, rgb(43, 44, 54) 100%) !important;
     background: url(image.png);
     background-repeat: no-repeat;
     height: 1081px;
